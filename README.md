@@ -12,6 +12,9 @@ Then go to created directory.
 Run make init command to create venv and install some dependencies:
 > make init
 
+After that activate created venv in your terminal
+> source venv/bin/activate
+
 ### Install browsers
 I recommend you to install all required browsers to the custom folder.
 To reach this goal you can simply define environment variable:
